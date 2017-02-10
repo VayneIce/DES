@@ -1,0 +1,9 @@
+D:\Daniele\Programming\DES\DES\bin\Debug\DES.exe.config
+D:\Daniele\Programming\DES\DES\bin\Debug\DES.exe
+D:\Daniele\Programming\DES\DES\bin\Debug\DES.pdb
+D:\Daniele\Programming\DES\DES\obj\Debug\DES.csprojResolveAssemblyReference.cache
+D:\Daniele\Programming\DES\DES\obj\Debug\DES.mainInterfaceDes.resources
+D:\Daniele\Programming\DES\DES\obj\Debug\DES.Properties.Resources.resources
+D:\Daniele\Programming\DES\DES\obj\Debug\DES.csproj.GenerateResource.Cache
+D:\Daniele\Programming\DES\DES\obj\Debug\DES.exe
+D:\Daniele\Programming\DES\DES\obj\Debug\DES.pdb
