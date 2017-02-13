@@ -22,9 +22,7 @@ namespace DES
         public mainInterfaceDes()
         {
             InitializeComponent();
-        }
-
-     
+        }     
 
         private void mainInterfaceDes_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -48,16 +46,7 @@ namespace DES
 
         private void Submit_Click(object sender, EventArgs e)
         {
-            int parsedValue;
-
-            if (!int.TryParse(textBox3.Text, out parsedValue))
-            {
-                MessageBox.Show("the key must be a number");
-            }
-            else
-            {
-               
-            }
+            
         }
     }
 }
